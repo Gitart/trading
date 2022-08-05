@@ -10,3 +10,4 @@
 ## Полезные линки
 
 [Библиотека для арбитража возможностей](https://github.com/ccxt/ccxt) 
+[Библиотека для арбитража возможностей](https://golangexample.com/transpiled-version-of-the-ccxt-exchange-library-to-go-golang/)  
